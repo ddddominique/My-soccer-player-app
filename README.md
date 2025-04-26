@@ -30,7 +30,8 @@ A simple Python desktop app that allows you to search for soccer players and ins
 
 ## 📸 Screenshots
 
-> *(Add a screenshot here if you want! Example:)*
+> ![image](https://github.com/user-attachments/assets/461f0e9b-fe50-40f6-9f6f-df681d293070)
+
 
 ![Soccer Player App Screenshot](link-to-your-screenshot)
 
