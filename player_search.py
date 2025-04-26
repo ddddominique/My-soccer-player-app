@@ -7,7 +7,7 @@ def real_func():
         querystring = {"search":name}
 
         headers = {
-            "x-rapidapi-key": "7dad5d88ecmshc2b935db82882dcp1e42a8jsn4f193e556e99",
+            "x-rapidapi-key": "APIKEY",
             "x-rapidapi-host": "free-api-live-football-data.p.rapidapi.com"
         }
 
@@ -26,7 +26,7 @@ def real_func():
         querystring = {"playerid":id}
 
         headers = {
-        "x-rapidapi-key": "7dad5d88ecmshc2b935db82882dcp1e42a8jsn4f193e556e99",
+        "x-rapidapi-key": "APIKEY",
         "x-rapidapi-host": "free-api-live-football-data.p.rapidapi.com"
         }
 
