@@ -33,14 +33,7 @@ A simple Python desktop app that allows you to search for soccer players and ins
 > ![image](https://github.com/user-attachments/assets/461f0e9b-fe50-40f6-9f6f-df681d293070)
 
 
-![Soccer Player App Screenshot](link-to-your-screenshot)
 
 ---
 
-## ⚙️ How to Run Locally
 
-1. Clone this repo:
-
-```bash
-git clone https://github.com/your-username/My-soccer-player-app.git
-cd My-soccer-player-app
